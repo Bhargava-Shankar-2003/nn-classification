@@ -43,8 +43,8 @@ Plot the training loss and validation loss.Predicting the model through classifi
 
 ## PROGRAM
 ```
- Name: G Lutheesh.
- Register Number:212221230029.
+ Name: S Bhargava
+ Register Number:212221040029.
 ```
 ```
 import pandas as pd
